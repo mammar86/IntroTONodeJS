@@ -1,6 +1,6 @@
 # IntroTONodeJS
 
-# This a Simple NodeJS project for demonstration purpose to Sun Coast Developers Guild cohort 19
+# This a Simple NodeJS project for demonstration purpose to Suncoast Developers Guild fellow students at cohort 19
 
 ### This mini project shows how to:
 
@@ -13,7 +13,7 @@
 - what is body-parser and what is it used for
 - How to use the inputs from the HTML file in order to make a post request
 
-### Link to the presentation
+## Link to the presentation
 
 ###### https://www.dropbox.com/s/xi0ihuabsxlvkvc/NodeJS.pdf?dl=0
 
